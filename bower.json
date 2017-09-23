@@ -1,0 +1,6 @@
+{
+  "name": "napa",
+  "dependencies": {
+    "ember": "components/ember#canary"
+  }
+}
